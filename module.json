@@ -9,10 +9,22 @@
         "name": "Merlin Guyard"
       }
     ],
-    "version": "1.0.0",
     "compatibility": {
       "minimum": 11,
       "verified": 11,
       "maximum": 11
-    }
+    },
+    "languages": [
+      {
+        "lang": "en",
+        "name": "English",
+        "path": "languages/en.json"
+      }
+    ],
+    "styles": [
+      "styles/todo-list.css"
+    ],
+    "scripts": [
+      "scripts/todo-list.js"
+    ]
   }
