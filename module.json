@@ -4,27 +4,28 @@
   "title": "WFRP4e - Domain Management",
   "description": "Build cities from scratch.",
   "version": "0.0.1",
-    "authors": [
-      {
-        "name": "Merlin Guyard"
-      }
-    ],
-    "compatibility": {
-      "minimum": 11,
-      "verified": 11,
-      "maximum": 11
-    },
-    "languages": [
-      {
-        "lang": "en",
-        "name": "English",
-        "path": "languages/en.json"
-      }
-    ],
-    "styles": [
-      "styles/todo-list.css"
-    ],
-    "scripts": [
-      "scripts/todo-list.js"
-    ]
-  }
+  "authors": [
+    {
+      "name": "Merlin Guyard"
+    }
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": 11,
+    "verified": 11,
+    "maximum": 11
+  },
+  "lang": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "languages/en.json"
+    }
+  ],
+  "styles": [
+    "styles/todo-list.css"
+  ],
+  "scripts": [
+    "scripts/todo-list.js"
+  ]
+}
